@@ -16,7 +16,7 @@ def main():
 
     logger = socketLogger(__name__)
 
-    TOKEN = 'OTMzMzkzMjM2MDI0NzY2NTY1.Yeg4MQ.JDhdZdDrDRDQUVcWxx_vh3owPSQ'
+    TOKEN = 'OTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
     bot = commands.Bot(command_prefix='.')
 
